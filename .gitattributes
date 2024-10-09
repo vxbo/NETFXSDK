@@ -1,0 +1,6 @@
+* text=auto
+
+*.lib -text -diff
+*.tlb -text -diff
+
+*.idl linguist-language=c
