@@ -3,4 +3,5 @@
 *.lib -text -diff
 *.tlb -text -diff
 
+*.def linguist-language=c
 *.idl linguist-language=c
