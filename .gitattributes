@@ -3,5 +3,8 @@
 *.lib -text -diff
 *.tlb -text -diff
 
+# at least they look pretty now
+*.grammar linguist-language=asm
+
 *.def linguist-language=c
 *.idl linguist-language=c
